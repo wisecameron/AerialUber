@@ -1,4 +1,6 @@
-<img src="AerialUberIMG.png" height="700" >
+<div align="center">
+  <img src="AerialUberIMG.png" height="500">
+</div>
 
 <div align="center">
   <br>
