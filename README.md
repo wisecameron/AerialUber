@@ -1,4 +1,4 @@
-![](AerialUberIMG.png)
+<img src="AerialUberIMG.png" height="400">
 
 <div align="center">
   <br>
