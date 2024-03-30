@@ -1,7 +1,6 @@
+![](Aerial Uber.png)
+
 <div align="center">
-  <a href="#">
-  	<img src="https://imgur.com/a/EaUGkpi" alt="Logo project" height="160" />
-  </a>
   <br>
   <br>
   <p>
