@@ -26,7 +26,7 @@
 * Fully working, optimized system
 
 
-## Exemples 🖍
+## Examples 🖍
 ```
     //passenger accepts an entry from the database.
     function accept_entry(string memory from, string memory to, uint256 index)
